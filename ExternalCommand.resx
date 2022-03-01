@@ -136,6 +136,10 @@
     <value>Caption</value>
     <comment>Button caption.</comment>
   </data>
+  <data name="_Button_position" xml:space="preserve">
+    <value>0</value>
+    <comment>Button position.</comment>
+  </data>
   <data name="_Button_tooltip_text" xml:space="preserve">
     <value>The command default tooltip text.</value>
     <comment>Button tooltip text.</comment>

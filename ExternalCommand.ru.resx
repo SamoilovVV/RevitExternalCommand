@@ -137,6 +137,10 @@
     <value>Кнопка</value>
     <comment>Надпись на кнопке.</comment>
   </data>
+  <data name="_Button_position" xml:space="preserve">
+    <value>0</value>
+    <comment>Позиция кнопки в панели.</comment>
+  </data>
   <data name="_Button_tooltip_text" xml:space="preserve">
     <value>Всплывающая подсказка для кнопки.</value>
     <comment>Всплывающая подсказка для кнопки.</comment>
